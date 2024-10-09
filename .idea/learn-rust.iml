@@ -2,8 +2,10 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/3.5-common-programming-concept/christmas-carol/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3.5-common-programming-concept/convert-temperatures/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3.5-common-programming-concept/nth-fibonacci/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/3.5-common-programming-concept/christmas-carol/target" />
       <excludeFolder url="file://$MODULE_DIR$/3.5-common-programming-concept/convert-temperatures/target" />
       <excludeFolder url="file://$MODULE_DIR$/3.5-common-programming-concept/nth-fibonacci/target" />
     </content>
