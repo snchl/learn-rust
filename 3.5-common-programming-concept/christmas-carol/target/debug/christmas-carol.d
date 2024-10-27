@@ -1,1 +1,0 @@
-/home/senechal/workspace/personal/rust/learn-rust/3.5-common-programming-concept/christmas-carol/target/debug/christmas-carol: /home/senechal/workspace/personal/rust/learn-rust/3.5-common-programming-concept/christmas-carol/src/main.rs
